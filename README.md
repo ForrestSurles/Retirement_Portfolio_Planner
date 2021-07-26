@@ -39,6 +39,8 @@ Instructions for installing anaconda may be found [here](https://www.anaconda.co
 
 ## Usage
 
+Once the necessary modules/libraries have been installed, launch the Jupyter Lab either via the command line or from within an IDE capable of opening the `.ipynb` file extension. From there, all steps performed, accompanying outputs, and analysis can be observed in sequence from top to bottom.
+
 ## Contributors
 
 Forrest Surles
