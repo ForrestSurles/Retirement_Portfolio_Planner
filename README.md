@@ -23,6 +23,20 @@ Instructions for installing anaconda may be found [here](https://www.anaconda.co
 
 ## Examples
 
+- A successful activation of the Jupyter Lab Notebook in a browser will appear similar to this screenshot:
+
+<img src='./Images/example_activation.png' width='500px'/>
+
+- Sample retirement portfolio health assessment output:
+
+<img src='./Images/pie-chart.png' style='background-color:LightGray' width='500px'/>
+
+- Sample Monte Carlo simulation line plot and histogram output:
+
+<img src='./Images/5-4-monte-carlo-line-plot.png' width='800px'/>
+
+<img src='./Images/5-4-monte-carlo-histogram.png' width='800px'/>
+
 ## Usage
 
 ## Contributors
