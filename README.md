@@ -10,7 +10,16 @@ The included Jupyter Notebook includes two financial planning tools;.<br>
 
 ## Technologies
 
+This Jupyter Lab Notebook has available to it the modules found in:<br>
+> `requirements.txt`
+
+In order to run this code, generate an ```API_key``` and a ```SECRET_key``` after creating an account on the [Alpaca API Website](https://app.alpaca.markets/signup).<br>
+After signup, refer to the [Alpaca documentation](https://alpaca.markets/docs/) for instruction on where and how to generate the keys.
+
 ## Installation Guide
+
+The most straightforward method for interacting with the included materials is from within an **anaconda environment**.<br>
+Instructions for installing anaconda may be found [here](https://www.anaconda.com/products/individual).
 
 ## Examples
 
